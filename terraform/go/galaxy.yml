@@ -1,0 +1,9 @@
+namespace: terraform
+name: go
+version: 1.0.0
+readme: README.md
+authors:
+  - you@example.com
+description: Terraform Go module via gopy
+license: MIT
+dependencies: {}
